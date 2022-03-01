@@ -1,0 +1,8 @@
+{
+  "name": "TDD-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/stefanonepa/TDD-practice.git",
+  "author": "Stefano Nepa <nepa@bryter.io>",
+  "license": "MIT"
+}
