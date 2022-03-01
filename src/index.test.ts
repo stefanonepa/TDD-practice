@@ -1,4 +1,4 @@
-import { add } from ".";
+import { add } from "./index";
 
 describe("add function", () => {
   it("should add two numbers", () => {
