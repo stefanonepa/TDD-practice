@@ -4,5 +4,16 @@
   "main": "index.js",
   "repository": "https://github.com/stefanonepa/TDD-practice.git",
   "author": "Stefano Nepa <nepa@bryter.io>",
-  "license": "MIT"
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^27.4.1",
+    "jest": "^27.5.1",
+    "prettier": "^2.5.1",
+    "ts-jest": "^27.1.3",
+    "ts-node": "^10.5.0",
+    "typescript": "^4.6.2"
+  }
 }
